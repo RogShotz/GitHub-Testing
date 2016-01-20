@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>RemoteSystemsTempFiles</name>
+=======
+	<name>GitHub-Testing</name>
+>>>>>>> origin/testing
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
 	</buildSpec>
 	<natures>
+<<<<<<< HEAD
 		<nature>org.eclipse.rse.ui.remoteSystemsTempNature</nature>
+=======
+>>>>>>> origin/testing
 	</natures>
 </projectDescription>
