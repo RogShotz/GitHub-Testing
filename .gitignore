@@ -1,0 +1,12 @@
+*.log
+*.a
+*.dll
+*.d
+*.o
+
+.cproject
+.project
+/.metadata/
+/RemoteSystemsTempFiles/
+/Calculator/.cproject
+/Calculator/.project
