@@ -6,5 +6,15 @@
  */
 
 
+#include "Calculator.h"
 
+
+int main (){
+	Calculator Calc;
+
+
+	Calc.Addition();
+
+return 0;
+}
 
