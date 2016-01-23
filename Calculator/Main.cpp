@@ -14,6 +14,7 @@ int main (){
 
 
 	Calc.Addition();
+	Calc.AdditionD();
 
 return 0;
 }

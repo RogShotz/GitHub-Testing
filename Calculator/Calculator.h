@@ -15,6 +15,7 @@ class Calculator {
 public:
 
 	void Addition();
+	void AdditionD();
 };
 
 #endif /* CALCULATOR_H_ */
