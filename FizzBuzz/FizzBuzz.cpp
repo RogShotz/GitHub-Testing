@@ -7,13 +7,14 @@
 
 
 #include <iostream>
+#include <windows.h>
 
 
 int main(){
 
 int x;
 
-	for(x = 1; 100>x; x++){
+	for(x = 1; 100>=x; x++){
 
 		if(x % 3 == 0 && x % 5 == 0){
 			std::flush(std::cout) << "FizzBuzz" << std::endl;
@@ -36,7 +37,9 @@ int x;
 				std::flush(std::cout) << x << std::endl;
 
 				}
+		Sleep(100);
 	}
+
 
 
 }
