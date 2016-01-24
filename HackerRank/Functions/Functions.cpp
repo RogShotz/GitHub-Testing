@@ -16,7 +16,7 @@ int CHOWmain() {
     std::cin >> c;
     std::cin >> d;
 
-    if (a > b && a > c && a > d) {
+    if (a > b && a > c && a > d) { //if all of these are true, then it has to be the biggest number
 
         std::cout << a;
     }

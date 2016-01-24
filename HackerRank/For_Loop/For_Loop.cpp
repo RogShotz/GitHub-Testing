@@ -17,7 +17,7 @@ int mainG() {
 
 	std::cin >> b;
 
-	for (count = a; count <= b; count++) {
+	for (count = a; count <= b; count++) { //the for statement shows all the numbers that needs to be named, and if = displays them
 		if (count == 1) {
 			std::cout << "one" << std::endl;
 
@@ -62,7 +62,7 @@ int mainG() {
 
 		}
 
-		if (count >= 10) {
+		if (count >= 10) {//displays even or odd for all ints >= 10
 
 			if (count % 2 == 0) {
 				std::cout << "even" << std::endl;
