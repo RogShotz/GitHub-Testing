@@ -8,7 +8,7 @@
 #include <iostream>
 #include <cstdio>
 
-int main() {
+int CHOWmain() {
     int a, b, c, d;
 
     std::cin >> a;
