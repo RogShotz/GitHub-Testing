@@ -8,7 +8,7 @@
 #include <iostream>
 #include <sstream> //For stringstream
 
-int main() {
+int mainE() {
 
     std::string input; //String input
     int a; //Integer a
